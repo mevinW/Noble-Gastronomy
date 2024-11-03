@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Strawberry
+  - Rock
+  - Plum
+  - Fork
+  - Bat
+  - Banana
+  - Ladder
+  - Pot
+  - Dragon
+  - Potion
+  - Fireball
+  - Lava
+  - Spike
+  - Home
+  - Box
+  - Deadzone
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3560684457
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera
+    uniqueID: 1341594971
+    locked: 0
+  - name: Player
+    uniqueID: 2605337647
+    locked: 0
